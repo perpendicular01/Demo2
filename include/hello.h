@@ -5,6 +5,7 @@
 class hello
 {
     public:
+        string s;
         hello();
         virtual ~hello();
 

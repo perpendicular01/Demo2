@@ -2,7 +2,7 @@
 
 hello::hello()
 {
-    //ctor
+    cout << "rohan" << endl;
 }
 
 hello::~hello()
