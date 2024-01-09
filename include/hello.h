@@ -5,7 +5,7 @@
 class hello
 {
     public:
-        string s;
+        string st;
         hello();
         virtual ~hello();
 
